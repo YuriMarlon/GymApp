@@ -1,0 +1,10 @@
+E:\DOCUMENTOS\Proyecto Visual Studio\GymAppWS\GymAppWS\bin\GymAppWS.dll.config
+E:\DOCUMENTOS\Proyecto Visual Studio\GymAppWS\GymAppWS\bin\GymAppWS.dll
+E:\DOCUMENTOS\Proyecto Visual Studio\GymAppWS\GymAppWS\bin\GymAppWS.pdb
+E:\DOCUMENTOS\Proyecto Visual Studio\GymAppWS\GymAppWS\bin\EntityFramework.dll
+E:\DOCUMENTOS\Proyecto Visual Studio\GymAppWS\GymAppWS\bin\EntityFramework.SqlServer.dll
+E:\DOCUMENTOS\Proyecto Visual Studio\GymAppWS\GymAppWS\bin\EntityFramework.xml
+E:\DOCUMENTOS\Proyecto Visual Studio\GymAppWS\GymAppWS\bin\EntityFramework.SqlServer.xml
+E:\DOCUMENTOS\Proyecto Visual Studio\GymAppWS\GymAppWS\obj\Debug\GymAppWS.csprojResolveAssemblyReference.cache
+E:\DOCUMENTOS\Proyecto Visual Studio\GymAppWS\GymAppWS\obj\Debug\GymAppWS.dll
+E:\DOCUMENTOS\Proyecto Visual Studio\GymAppWS\GymAppWS\obj\Debug\GymAppWS.pdb
